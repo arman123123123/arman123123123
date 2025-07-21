@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Minecraft Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arman123123123?tab=repositories](https://github.com/arman123123123?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/arman123123123?tab=repositories](https://github.com/armanrazakhan?tab=repositories)
 
 - 📫 How to reach me **ak1338697@gmail.com**
 
