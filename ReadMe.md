@@ -7,6 +7,12 @@
 
 - 🔭 I’m currently working on [Legitpixel based on hypixel remake](https://discord.gg/legitpixel)
 
+- 🌱 I’m currently learning AI **Deepseek | GPT 4**
+
+- 👯 I’m looking to collaborate on **Minecraft Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/arman123123123?tab=repositories](https://github.com/arman123123123?tab=repositories)
+
 - 📫 How to reach me **ak1338697@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
