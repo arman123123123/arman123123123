@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanrazakhan&label=Profile%20views&color=0e75b6&style=flat" alt="arman123123123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman123123123" alt="arman123123123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armanrazakhan" alt="armanrazakhan" /></a> </p>
 
 - 🔭 I’m currently working on SquidGame on minecraft for [legitpixel](https://discord.gg/legitpixel)
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Minecraft Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arman123123123?tab=repositories](https://github.com/armanrazakhan?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/armanrazakhan?tab=repositories](https://github.com/armanrazakhan?tab=repositories)
 
 - 📫 How to reach me **ak1338697@gmail.com**
 
