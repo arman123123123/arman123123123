@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arman</h1>
 <h3 align="center">Java Developer | Minecraft Plugins, Mods, and More</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arman123123123&label=Profile%20views&color=0e75b6&style=flat" alt="arman123123123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armanrazakhan&label=Profile%20views&color=0e75b6&style=flat" alt="arman123123123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman123123123" alt="arman123123123" /></a> </p>
 
-- 🔭 I’m currently working on [Legitpixel based on hypixel remake](https://discord.gg/legitpixel)
+- 🔭 I’m currently working on SquidGame on minecraft for [legitpixel](https://discord.gg/legitpixel)
 
 - 🌱 I’m currently learning AI **Deepseek | GPT 4**
 
